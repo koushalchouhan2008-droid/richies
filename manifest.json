@@ -1,0 +1,16 @@
+{
+  "name": "RICHIES Admission Consultants",
+  "short_name": "RICHIES",
+  "description": "Premium, independent guidance for private universities and courses in India.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1b120f",
+  "theme_color": "#1b120f",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
